@@ -1,1 +1,1 @@
-Normal listing database to WordPress database
+What if you have a custom developed content management website and if you want to convert to Wordpress. It is easy to install a fresh installation and get started. But the real question is: how to convert the old articles to Wordpress. This class will solve this problem. 
